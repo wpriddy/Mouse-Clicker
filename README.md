@@ -10,6 +10,8 @@ Moves mouse and clicks to keep computer screen active for running longer codes w
 
 > run_mouse_clicker()
 
+#### To end mouse moving before the input time, move your mouse to the top right corner of your screen.
+
 ## <br>Install on your machine
 
 ### Clone GitHub repo
@@ -20,4 +22,6 @@ Moves mouse and clicks to keep computer screen active for running longer codes w
 
 #### note: the path for pip install should be to the parent folder where repo was cloned 
 
-> pip install "location of cloned folder"
+> cd "location of cloned folder"
+
+> pip install .
