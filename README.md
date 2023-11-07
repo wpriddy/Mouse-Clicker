@@ -7,12 +7,8 @@ Moves mouse and clicks to keep computer screen active for running longer codes w
 ### Import and call function from package
 
 > from mouse_clicker import run_mouse_clicker
+
 > run_mouse_clicker()
-> 
-
-
-## <br>Requirements:
-### Requirements are housed in setup.py <br> Requirements are installed on installation of package
 
 ## <br>Install on your machine
 
