@@ -12,7 +12,7 @@ Moves mouse and clicks to keep computer screen active for running longer codes w
 
 #### To end mouse moving before the input time, move your mouse to the top right corner of your screen.
 
-### Input Format: HH-MM
+### Input Format: HH-MM (in military time)
 
 #### Examples : 05,15
 ####          : 15,05
